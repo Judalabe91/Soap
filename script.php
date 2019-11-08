@@ -1,6 +1,6 @@
 <?php
 	if (isset($_POST['date'])) {
-		$DATE = $_post['date']
+		$DATE = $_POST['date'] ;
 
 		define('WS_URL', 'http://localhost/practica/webservice.php');
 
